@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toon Mushroom
+* source:	https://sketchfab.com/3d-models/toon-mushroom-0f61362dc26d479887f15095101c25f8
+* author:	FarAlbatross (https://sketchfab.com/santhu48)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toon Mushroom" (https://sketchfab.com/3d-models/toon-mushroom-0f61362dc26d479887f15095101c25f8) by FarAlbatross (https://sketchfab.com/santhu48) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
